@@ -1,7 +1,7 @@
 # Goonies 1986 - Prototype 1
 
 ## Link to the project
-
+https://github.com/MarioPrincesita/Goonies-1986_Game-Analysis/wiki
 
 ## Link to the video (YouTube)
 https://youtu.be/O_s38IWPr48
